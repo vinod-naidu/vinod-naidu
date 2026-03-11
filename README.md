@@ -1,24 +1,25 @@
 <!-- Header Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=220&section=header&text=Vinod%20Naidu&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=220&section=header&text=Vinod%20Naidu&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi+I'm+Vinod+Naidu;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+Into+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights"/>
 </p>
 
 ---
 
-# 📊 Data Analyst Portfolio
+# 👋 Hello, I'm Vinod
 
-I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and dashboards that support data-driven decisions.
+📊 **Aspiring Data Analyst** passionate about transforming data into meaningful insights.
+I enjoy working with **data visualization, business intelligence, and analytics** to solve real-world problems.
 
 ---
 
-## 🛠 Skills & Tools
+# 🧠 Skills & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode"/>
@@ -27,19 +28,22 @@ I am an aspiring **Data Analyst** passionate about transforming raw data into me
 **Data Tools**
 
 * Power BI
-* Excel
+* Microsoft Excel
 * SQL
 * Data Visualization
 * Data Cleaning
-* Dashboard Development
 
 ---
 
-## 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 📈 Top Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
@@ -47,7 +51,7 @@ I am an aspiring **Data Analyst** passionate about transforming raw data into me
 
 ---
 
-## 📊 Activity Graph
+# 📊 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
@@ -55,39 +59,39 @@ I am an aspiring **Data Analyst** passionate about transforming raw data into me
 
 ---
 
-## 📂 Featured Data Projects
+# 📂 Featured Projects
 
 ### 📊 HR Analytics Dashboard
 
-* Built using **Power BI**
-* Analyzed employee attrition and workforce distribution
-* Interactive dashboard for HR insights
+Power BI dashboard analyzing employee attrition, workforce demographics, and performance insights.
 
-### 📈 Sales Performance Dashboard
+### 📈 Sales Analysis Dashboard
 
-* Sales trend analysis
-* Region-wise revenue insights
-* Profit and KPI tracking
+Interactive visualization of regional sales trends, revenue growth, and product performance.
 
-### 🛒 E-Commerce Data Analysis
+### 🛒 E-commerce Data Analysis
 
-* Customer behaviour analysis
-* Product performance insights
-* SQL queries for business reporting
+SQL-based analysis of customer purchasing behaviour and sales patterns.
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Career Goal
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+My goal is to become a **Data Analyst** who can help organizations make **data-driven decisions** using powerful analytics and visualization tools.
 
 ---
 
-## 👀 Profile Views
+# 📫 Connect With Me
+
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+
+---
+
+# 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8A2BE2&style=for-the-badge"/>
 </p>
 
 ---
