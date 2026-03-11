@@ -37,7 +37,7 @@ I analyze **sales, customers, and business performance** using modern analytics 
 # 📊 E-Commerce Analytics Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vinod-naidu&show_icons=true&theme=radical"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ I analyze **sales, customers, and business performance** using modern analytics 
 # 📈 Data Insights Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinod-naidu&theme=react-dark"/>
 </p>
 
 ---
@@ -74,15 +74,15 @@ I analyze **sales, customers, and business performance** using modern analytics 
 
 # 📫 Contact
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+📧 Email: [vinoddasari3124@gmail.com](mailto:vinoddasari3124@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/vinoddasari
 
 ---
 
 # 👀 Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vinod-naidu&color=orange&style=for-the-badge"/>
 </p>
 
 ---
