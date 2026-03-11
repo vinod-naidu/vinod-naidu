@@ -1,92 +1,109 @@
-<!-- E-commerce style banner -->
+<!-- Animated Header Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=230&section=header&text=Vinod%20Naidu%20%7C%20Data%20Analytics%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=230&section=header&text=Vinod%20Naidu&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- typing animation -->
+<!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF7E5F&center=true&vCenter=true&width=700&lines=E-Commerce+Data+Analytics;Power+BI+%7C+SQL+%7C+Excel;Building+Data+Driven+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Vinod+Naidu;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;E-Commerce+Analytics;Turning+Data+Into+Insights"/>
+</p>
+
+<!-- Animated Coding GIF -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
 
-# 🛒 E-Commerce Analytics Portfolio
+# 🚀 About Me
 
-Welcome to my **Data Analytics Portfolio**.
-I analyze **sales, customers, and business performance** using modern analytics tools.
+📊 Aspiring **Data Analyst**
+📈 Skilled in **Power BI, SQL, Excel**
+📉 Passionate about **Data Visualization & Business Intelligence**
+🌱 Currently learning **Advanced Analytics**
 
 ---
 
-# 🧠 Skills
+# 🧠 Skills & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 </p>
 
-**Data Tools**
-
-📊 Power BI
-📈 Excel
-🗄 SQL
-📉 Data Visualization
-
----
-
-# 📊 E-Commerce Analytics Dashboard
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vinod-naidu&show_icons=true&theme=radical"/>
+📊 Power BI &nbsp; | &nbsp; 📈 Excel &nbsp; | &nbsp; 🗄 SQL &nbsp; | &nbsp; 📉 Data Visualization
 </p>
 
 ---
 
-# 📈 Data Insights Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinod-naidu&theme=react-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🛍 Featured Projects
-
-### 📊 E-Commerce Sales Dashboard
-
-* Sales trends analysis
-* Category performance tracking
-* Profit and revenue insights
-
-### 👥 Customer Behaviour Analysis
-
-* Customer segmentation
-* Purchase patterns
-* Retention insights
-
-### 📦 Product Performance Dashboard
-
-* Top selling products
-* Inventory insights
-* Demand trends
-
----
-
-# 📫 Contact
-
-📧 Email: [vinoddasari3124@gmail.com](mailto:vinoddasari3124@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/vinoddasari
-
----
-
-# 👀 Visitors
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vinod-naidu&color=orange&style=for-the-badge"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
 
+# 📈 Most Used Languages
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:feb47b,100:ff7e5f&height=120&section=footer"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+</p>
+
+---
+
+# 🛍 Featured Data Projects
+
+### 📊 HR Analytics Dashboard
+
+* Power BI dashboard analyzing employee attrition and workforce insights
+
+### 📈 Sales Performance Dashboard
+
+* Revenue analysis, sales trends, and KPI tracking
+
+### 🛒 E-Commerce Data Analysis
+
+* SQL analysis of customer behavior and product performance
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+<!-- Animated Footer -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer"/>
 </p>
