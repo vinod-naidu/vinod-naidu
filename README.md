@@ -42,7 +42,7 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vinod-naidu&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinod-naidu&theme=tokyonight"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinod-naidu&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@
 # 📊 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinod-naidu&theme=react-dark"/>
 </p>
 
 ---
@@ -89,15 +89,15 @@
 
 # 📫 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+📧 Email: [vinoddasari3124@gmail.com](mailto:vinoddasari3124@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/vinod
 
 ---
 
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vinod-naidu&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
