@@ -47,7 +47,7 @@
 <h1 align="center" style="color:#ff512f;">📊 GitHub Statistics</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vinod-naiduE&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 <h1 align="center" style="color:#dd2476;">🔥 GitHub Streak</h1>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinod-naidu&theme=tokyonight"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@
 <h1 align="center" style="color:#ff512f;">📈 Most Used Languages</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinod-naidu&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 <h1 align="center" style="color:#dd2476;">📊 Coding Activity</h1>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinod-naidu&theme=react-dark"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@
 
 <h1 align="center" style="color:#dd2476;">📫 Connect With Me</h1>
 
-📧 <span style="color:#3498db;">[your-email@gmail.com](mailto:your-email@gmail.com)</span>
+📧 <span style="color:#3498db;">[vinoddasari3124@gmail.com](mailto:vinoddasari3124@gmail.com)</span>
 💼 <span style="color:#9b59b6;">https://linkedin.com/in/YOUR-LINK</span>
 
 ---
@@ -99,7 +99,7 @@
 <h1 align="center" style="color:#ff512f;">👀 Profile Visitors</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vinod-naidu&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
