@@ -1,101 +1,92 @@
-<!-- Header Banner -->
+<!-- E-commerce style banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=220&section=header&text=Vinod%20Naidu&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=230&section=header&text=Vinod%20Naidu%20%7C%20Data%20Analytics%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- typing animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF7E5F&center=true&vCenter=true&width=700&lines=E-Commerce+Data+Analytics;Power+BI+%7C+SQL+%7C+Excel;Building+Data+Driven+Insights"/>
 </p>
 
 ---
 
-# 👋 Hello, I'm Vinod
+# 🛒 E-Commerce Analytics Portfolio
 
-📊 **Aspiring Data Analyst** passionate about transforming data into meaningful insights.
-I enjoy working with **data visualization, business intelligence, and analytics** to solve real-world problems.
+Welcome to my **Data Analytics Portfolio**.
+I analyze **sales, customers, and business performance** using modern analytics tools.
 
 ---
 
-# 🧠 Skills & Tools
+# 🧠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 </p>
 
 **Data Tools**
 
-* Power BI
-* Microsoft Excel
-* SQL
-* Data Visualization
-* Data Cleaning
+📊 Power BI
+📈 Excel
+🗄 SQL
+📉 Data Visualization
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 E-Commerce Analytics Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
 </p>
 
 ---
 
-# 📈 Top Languages
+# 📈 Data Insights Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
 </p>
 
 ---
 
-# 📊 Contribution Activity
+# 🛍 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+### 📊 E-Commerce Sales Dashboard
 
----
+* Sales trends analysis
+* Category performance tracking
+* Profit and revenue insights
 
-# 📂 Featured Projects
+### 👥 Customer Behaviour Analysis
 
-### 📊 HR Analytics Dashboard
+* Customer segmentation
+* Purchase patterns
+* Retention insights
 
-Power BI dashboard analyzing employee attrition, workforce demographics, and performance insights.
+### 📦 Product Performance Dashboard
 
-### 📈 Sales Analysis Dashboard
-
-Interactive visualization of regional sales trends, revenue growth, and product performance.
-
-### 🛒 E-commerce Data Analysis
-
-SQL-based analysis of customer purchasing behaviour and sales patterns.
+* Top selling products
+* Inventory insights
+* Demand trends
 
 ---
 
-# 🎯 Career Goal
-
-My goal is to become a **Data Analyst** who can help organizations make **data-driven decisions** using powerful analytics and visualization tools.
-
----
-
-# 📫 Connect With Me
+# 📫 Contact
 
 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
 
 ---
 
-# 👀 Profile Visitors
+# 👀 Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=orange&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:feb47b,100:ff7e5f&height=120&section=footer"/>
 </p>
