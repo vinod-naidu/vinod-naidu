@@ -79,7 +79,7 @@
 <h1 align="center" style="color:#ff512f;">🐍 Contribution Snake</h1>
 
 <p align="center">
-<img src="https://github.com/vinod-naidu/blob/output/github-contribution-grid-snake.yml"/>
+<img src="https://github.com/vinod-naidu/vinod-naidu/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
