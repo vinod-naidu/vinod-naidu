@@ -7,10 +7,10 @@
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Vinod+Naidu;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Data+Visualization+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Vinod+Naidu;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Data+Visualization+Enthusiast;Turning+Data+Into+Insights"/>
 </p>
 
-<!-- Coding Animation -->
+<!-- Coding GIF -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
@@ -39,7 +39,7 @@
 <span style="color:#e74c3c;">Power BI</span> |
 <span style="color:#3498db;">SQL</span> |
 <span style="color:#2ecc71;">Excel</span> |
-<span style="color:#9b59b6;">Data Visualization</span>
+<span style="color:#9b59b6;">Python</span>
 </p>
 
 ---
@@ -72,6 +72,22 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinod-naidu&theme=react-dark"/>
+</p>
+
+---
+
+<h1 align="center" style="color:#ff512f;">🐍 Contribution Snake</h1>
+
+<p align="center">
+<img src="https://github.com/vinod-naidu/vinod-naidu/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<h1 align="center" style="color:#dd2476;">🏆 Achievements</h1>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vinod-naidu&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
