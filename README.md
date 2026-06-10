@@ -78,17 +78,34 @@
 
 <h1 align="center">🐍 Contribution Snake</h1>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/vinod-naidu/vinod-naidu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/vinod-naidu/vinod-naidu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation"
-       src="https://raw.githubusercontent.com/vinod-naidu/vinod-naidu/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vinod-naidu
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 <h1 align="center" style="color:#dd2476;">🏆 Achievements</h1>
