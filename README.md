@@ -88,17 +88,6 @@
       src="https://raw.githubusercontent.com/vinod-naidu/vinod-naidu/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
- 
-       
----
-
-<h1 align="center">🏆 Achievements</h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinod-naidu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
----
-
 <h1 align="center" style="color:#ff512f;">🛍 Featured Projects</h1>
 
 <h3 style="color:#3498db;">📊 HR Analytics Dashboard</h3>
