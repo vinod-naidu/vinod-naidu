@@ -55,7 +55,7 @@
 <h1 align="center" style="color:#dd2476;">🔥 GitHub Streak</h1>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinod-naidu&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=vinod-naidu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@
 <h1 align="center" style="color:#ff512f;">📈 Most Used Languages</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinod-naidu&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinod-naidu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
