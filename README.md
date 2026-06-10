@@ -55,7 +55,7 @@
 <h1 align="center" style="color:#dd2476;">🔥 GitHub Streak</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinod-naidu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=vinod-naidu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
