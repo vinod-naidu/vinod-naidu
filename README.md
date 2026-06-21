@@ -21,8 +21,8 @@
 <h1 align="center" style="color:#ff512f;">🚀 About Me</h1>
 
 <p align="center">
-<span style="color:#3498db;">📊 Aspiring Data Analyst</span><br>
-<span style="color:#9b59b6;">📈 Skilled in Power BI, SQL, Excel</span><br>
+<span style="color:#3498db;">📊 Aspiring Good Engineer</span><br>
+<span style="color:#9b59b6;">📈 Skilled in Power BI, SQL, Excel ,java ,python(basics),Spring boot(Basics)</span><br>
 <span style="color:#2ecc71;">📉 Passionate about Data Visualization</span><br>
 <span style="color:#f39c12;">🌱 Currently learning Advanced Analytics</span>
 </p>
